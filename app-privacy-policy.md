@@ -1,4 +1,4 @@
-# TEST Privacy Policy for Hubble Network Inc.
+# Privacy Policy for Hubble Network Inc.
 
 Last Updated: [1 October 2024]
 Hash: [HASH]
