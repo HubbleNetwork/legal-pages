@@ -5,7 +5,7 @@ Hash: [HASH]
 
 ## 1. Introduction
 
-Hubble Network Inc., a Delaware corporation with its principal place of business at [ADDRESS] ("Hubble", "we", "us", or "our") is committed to protecting the privacy and security of the personal information we collect and process. This Privacy Policy outlines how we collect, use, disclose, and safeguard information in the course of providing our services to business customers. Capitalized or other defined terms used in this Privacy Policy but not otherwise defined have the meanings given to them in our [Terms of Service](https://www.hubblenetwork.com/terms).
+Hubble Network Inc., a Delaware corporation with its principal place of business at [ADDRESS] ("Hubble", "we", "us", or "our") is committed to protecting the privacy and security of the personal information we collect and process. This Privacy Policy outlines how we collect, use, disclose, and safeguard information in the course of providing our services to business customers. Capitalized or other defined terms used in this Privacy Policy but not otherwise defined have the meanings given to them in our [Terms of Service](https://www.hubblenetwork.com/#/terms).
 
 Our services, which include the Hubble API, Smartpin devices, and related offerings (collectively, the "Services"), are intended for use by businesses and organizations only. We do not offer products or services for personal or household use.
 
@@ -33,7 +33,7 @@ We may collect information about how customers use our Services, including API c
 
 ### 2.3 How We Collect Information
 
-We collect personal information directly from our business customers and their authorized users in the course of providing our services. We may also collect limited personal information from third parties, such as service providers who assist us in delivering or supporting our services. For a list of third-party service providers that we engage with to enable our services, see our [Subprocessors List](https://www.hubblenetwork.com/subprocessors).
+We collect personal information directly from our business customers and their authorized users in the course of providing our services. We may also collect limited personal information from third parties, such as service providers who assist us in delivering or supporting our services. For a list of third-party service providers that we engage with to enable our services, see our [Subprocessors List](https://www.hubblenetwork.com/#/subprocessors).
 
 We do use cookies or other tracking technologies to collect personal information through our website or services. Our website may use cookies for basic functions like enabling secure log-in, but these do not allow us to identify individuals.
 
