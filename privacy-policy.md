@@ -1,11 +1,11 @@
-# Privacy Policy for Hubble Network Inc.
+# Hubble Network Privacy Policy
 
-Last Updated: [1 October 2024]
+Last Updated: [Date]
 Hash: [HASH]
 
 ## 1. Introduction
 
-Hubble Network Inc., a Delaware corporation with its principal place of business at [ADDRESS] ("Hubble", "we", "us", or "our") is committed to protecting the privacy and security of the personal information we collect and process. This Privacy Policy outlines how we collect, use, disclose, and safeguard information in the course of providing our services to business customers.
+Hubble Network Inc., a Delaware corporation with its principal place of business at [ADDRESS] ("Hubble", "we", "us", or "our") is committed to protecting the privacy and security of the personal information we collect and process. This Privacy Policy outlines how we collect, use, disclose, and safeguard information in the course of providing our services to business customers. Capitalized or other defined terms used in this Privacy Policy but not otherwise defined have the meanings given to them in our [Terms of Service](https://www.hubblenetwork.com/terms).
 
 Our services, which include the Hubble API, Smartpin devices, and related offerings (collectively, the "Services"), are intended for use by businesses and organizations only. We do not offer products or services for personal or household use.
 
@@ -16,10 +16,12 @@ By using our Services, you agree to the collection and use of information in acc
 As a provider of enterprise business services, we collect limited personal information related to our business customers and their authorized users. This may include:
 
 - Business Contact Information: Names, business email addresses, phone numbers, company names, and professional titles of our customers' authorized representatives and users.
-- Account Information: Usernames, account numbers, service addresses, and other information needed to establish and maintain customer accounts.
-- Technical Information: Data related to customers' use of our services, such as API usage, device information (including latitude and longitude of Smartpin devices), network monitoring data, and logs, used to provide and improve the services and ensure appropriate use.
 
-We do not collect personal information from or about our customers' end users in the course of providing our services.
+- Account Information: Usernames, account numbers, service addresses, and other information needed to establish and maintain customer accounts.
+
+- Technical Information: Data related to customers' use of our services, such as API usage, device information (including latitude and longitude of Hubble-enabled devices, including Smartpin), network monitoring data, and logs, used to provide and improve the services and ensure appropriate use.
+
+We collect this information at the direction of our business customers and use it only to provide and improve our services, communicate with customers, and comply with legal obligations. If you provide us with personal information about others, you represent that you have the authority to do so and permit us to use the information in accordance with this Privacy Policy.
 
 ### 2.1 Business Contact Information
 
@@ -27,16 +29,13 @@ We may collect business contact information from our customers and prospective c
 
 ### 2.2 Usage and Device Information
 
-We may collect information about how customers use our Services, including API calls made, device information
-such as latitude and longitude, and network activity. This information is collected to provide and improve the Services, diagnose technical issues, and detect and prevent misuse.
-
-We do not collect, process, or store personal information from or about our customers' end-users in the course of providing the Services.
+We may collect information about how customers use our Services, including API calls made, device information such as latitude and longitude, and network activity. This information is collected to provide and improve the Services, diagnose technical issues, and detect and prevent misuse.
 
 ### 2.3 How We Collect Information
 
-We collect personal information directly from our business customers and their authorized users in the course of providing our services. We may also collect limited personal information from third parties, such as service providers who assist us in delivering or supporting our services. For a list of third-party service providers that we engage with to enable our services, see our [Subprocessors List](https://www.hubblenetwork.com/#/subprocessors).
+We collect personal information directly from our business customers and their authorized users in the course of providing our services. We may also collect limited personal information from third parties, such as service providers who assist us in delivering or supporting our services. For a list of third-party service providers that we engage with to enable our services, see our [Subprocessors List](https://www.hubblenetwork.com/subprocessors).
 
-We do not use cookies or other tracking technologies to collect personal information through our website or services. Our website may use cookies for basic functions like enabling secure log-in, but these do not allow us to identify individuals.
+We do use cookies or other tracking technologies to collect personal information through our website or services. Our website may use cookies for basic functions like enabling secure log-in, but these do not allow us to identify individuals.
 
 ## 3. How We Use Information
 
@@ -71,7 +70,7 @@ We are headquartered in the United States and may use service providers that ope
 
 ## 7. Your Choices and Rights
 
-Individuals may contact us to request access to or deletion of their personal information, or to opt out of certain processing activities. We will respond to such requests in accordance with applicable laws.]
+Individuals may contact us to request access to or deletion of their personal information, or to opt out of certain processing activities. We will respond to such requests in accordance with applicable laws. You amy contact us at [privacy@hubblenetwork.com].
 
 ## 8. Changes to This Privacy Policy
 
