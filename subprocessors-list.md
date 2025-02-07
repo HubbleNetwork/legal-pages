@@ -56,7 +56,7 @@ These subprocessors provide additional services necessary for business operation
 
 | Subprocessor        | Location   | Purpose                                     | Data Processed                                  |
 | ------------------- | ---------- | ------------------------------------------- | ---------------------------------------------- |
-| HubSpot            | US and Canada | CRM and marketing platform                | Customer Names, Emails, or other PII       |
+| HubSpot            | US and Canada | Marketing, sales and customer support     | Customer Names, Emails, or other PII       |
 | ActiveCampaign     | US and Canada | Email marketing & automation              | Customer Names, Emails, or other PII       |
 | Vimeo              | US and Canada | Video hosting                             | Marketing videos - no customer data           |
 | Auth0 (Okta)       | US and Canada | Authentication and authorization services | Customer Names, Emails, or other PII       |
