@@ -37,7 +37,7 @@ The Company provides devices for sale or lease for use with our Services which a
 
 ## 5. Satellite & Bluetooth Networks; Third-Party Partners
 
-The Company service relies on our proprietary low earth orbit satellite constellation and federated Bluetooth networks to provide connectivity, which may involve the use of third-party partners. By using the Services, you agree to comply with all applicable terms and conditions of these networks and partners and consent to the collection and use of data by these networks and partners. The extent to which data is collected and used by these networks and partners is governed by our [Privacy Policy](LINK TO PP).
+The Company service relies on our proprietary low earth orbit satellite constellation and federated Bluetooth networks to provide connectivity, which may involve the use of third-party partners. By using the Services, you agree to comply with all applicable terms and conditions of these networks and partners and consent to the collection and use of data by these networks and partners. The extent to which data is collected and used by these networks and partners is governed by our [Privacy Policy](https://hubblenetwork.com/#/privacy-policy).
 
 ## 7. Service Availability
 
@@ -107,7 +107,7 @@ We respect the intellectual property rights of others. If you believe that any m
 
 ## 13. Privacy & Security
 
-Your use of the Services is subject to our [Privacy Policy](LINK TO PP), which describes our practices for collecting, using, and disclosing your information. The Company uses commercially reasonable security measures to protect your data. However, no system is completely secure and we cannot guarantee the security of your information. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+Your use of the Services is subject to our [Privacy Policy](https://hubblenetwork.com/#/privacy-policy), which describes our practices for collecting, using, and disclosing your information. The Company uses commercially reasonable security measures to protect your data. However, no system is completely secure and we cannot guarantee the security of your information. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
 
 ## 14. Third-Party Resources
 
