@@ -1,7 +1,7 @@
 # Terms of Service for Hubble Network Inc.
 
-Last updated: \_\_, 2025
-Hash: [Data Hash]
+Last updated: 6 March 2025  
+Hash: 079f4acb648802c082097d679ce41f1dd1e6ccd2
 
 Your use of this website, the Hubble application programming interface (API), Hubble Dev SDK, Smartpin devices, and all related devices and services (collectively, the "Services") is governed by these terms of service (these "Terms") in addition to any other specific terms and conditions you may enter into between you and Hubble Network Inc., a Delaware corporation (the “Company", "we", "us", or "our") (together with these Terms, the "Agreement"). Please read these Terms carefully before using the Services.
 
@@ -25,7 +25,7 @@ In order to use the Services, you represent and warrant that:
 
 - You are at least 18 years of age and possess the legal right and ability to enter into these Terms and to use the Services in accordance with these Terms. If you are using the Services on behalf of an organization, you represent and warrant that you have the authority to bind that organization to these Terms.
 
-The Company does not permit those under 18 years of age to use the Services. By using the Services, you affirm that you are at least 18 years old. We do not knowingly collect or solicit personal information from children under 18. If you believe that we might have any information from or about a child under 18, please contact us immediately at [legal@hubblenetwork.com]. If we learn that we have collected personal information from a child under 18 without verification of parental consent, we will delete that information as quickly as possible.
+The Company does not permit those under 18 years of age to use the Services. By using the Services, you affirm that you are at least 18 years old. We do not knowingly collect or solicit personal information from children under 18. If you believe that we might have any information from or about a child under 18, please contact us immediately at legal@hubblenetwork.com. If we learn that we have collected personal information from a child under 18 without verification of parental consent, we will delete that information as quickly as possible.
 
 ## 3. User Accounts
 
@@ -103,7 +103,7 @@ We welcome and encourage you to provide feedback, comments and suggestions for i
 
 ### 12.4. Copyright Complaints
 
-We respect the intellectual property rights of others. If you believe that any material available on or through the Services infringes upon any copyright you own or control, please immediately notify our us at [legal@hubblenetwork.com].
+We respect the intellectual property rights of others. If you believe that any material available on or through the Services infringes upon any copyright you own or control, please immediately notify our us at legal@hubblenetwork.com.
 
 ## 13. Privacy & Security
 
@@ -139,6 +139,6 @@ These Terms constitute the entire agreement between you and the Company regardin
 
 ### 17.4. Electronic Delivery Policy, Customer Consent, and Notices
 
-You consent to receive all agreements, updates, disclosures, policies, notices, and other information (collectively, “Notices”) provided by Company or its affiliates via paper and/or electronic delivery at Company’s sole discretion. Company may deliver or display Notices to you by email or pop-up window, or by posting a message on the Services or the [Customer Portal](LINK TO CUSTOMER PORTAL). You may receive periodic texts, emails, or other communications from the Company, such as notices regarding expiration of your account and changes to these Terms.
+You consent to receive all agreements, updates, disclosures, policies, notices, and other information (collectively, “Notices”) provided by Company or its affiliates via paper and/or electronic delivery at Company’s sole discretion. Company may deliver or display Notices to you by email or pop-up window, or by posting a message on the Services or the [Customer Portal](dashboard.hubblenetwork.com). You may receive periodic texts, emails, or other communications from the Company, such as notices regarding expiration of your account and changes to these Terms.
 
-If you have any questions about these Terms, please contact us at: [info@hubblenetwork.com].
+If you have any questions about these Terms, please contact us at: info@hubblenetwork.com.
