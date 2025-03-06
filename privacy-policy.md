@@ -1,11 +1,11 @@
 # Hubble Network Privacy Policy
 
-Last Updated: [Date]
-Hash: [HASH]
+Last Updated: 6 March 2025  
+Hash: [62cf19ba5b13a8dc7773a8511186de0a602bda1f]
 
 ## 1. Introduction
 
-Hubble Network Inc., a Delaware corporation with its principal place of business at [ADDRESS] ("Hubble", "we", "us", or "our") is committed to protecting the privacy and security of the personal information we collect and process. This Privacy Policy outlines how we collect, use, disclose, and safeguard information in the course of providing our services to business customers. Capitalized or other defined terms used in this Privacy Policy but not otherwise defined have the meanings given to them in our [Terms of Service](https://www.hubblenetwork.com/#/terms).
+Hubble Network Inc., a Delaware corporation with its principal place of business at 1508 10th Ave. Suite 200, Seattle, WA 98122 ("Hubble", "we", "us", or "our") is committed to protecting the privacy and security of the personal information we collect and process. This Privacy Policy outlines how we collect, use, disclose, and safeguard information in the course of providing our services to business customers. Capitalized or other defined terms used in this Privacy Policy but not otherwise defined have the meanings given to them in our [Terms of Service](https://www.hubblenetwork.com/#/terms).
 
 Our services, which include the Hubble API, Smartpin devices, and related offerings (collectively, the "Services"), are intended for use by businesses and organizations only. We do not offer products or services for personal or household use.
 
@@ -70,7 +70,7 @@ We are headquartered in the United States and may use service providers that ope
 
 ## 7. Your Choices and Rights
 
-Individuals may contact us to request access to or deletion of their personal information, or to opt out of certain processing activities. We will respond to such requests in accordance with applicable laws. You amy contact us at [privacy@hubblenetwork.com].
+Individuals may contact us to request access to or deletion of their personal information, or to opt out of certain processing activities. We will respond to such requests in accordance with applicable laws. You amy contact us at privacy@hubblenetwork.com.
 
 ## 8. Changes to This Privacy Policy
 
@@ -84,6 +84,6 @@ We retain personal information only as long as needed to provide our services an
 
 If you have questions about this Privacy Policy or our privacy practices, please contact us at:
 
-Hubble Network Inc.
-[PHYSICAL_ADDRESS]  
-Email: [privacy@hubblenetwork.com]
+Hubble Network Inc.  
+1508 10th Ave. Suite 200, Seattle, WA 98122  
+Email: privacy@hubblenetwork.com
