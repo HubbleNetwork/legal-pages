@@ -142,3 +142,26 @@ These Terms constitute the entire agreement between you and the Company regardin
 You consent to receive all agreements, updates, disclosures, policies, notices, and other information (collectively, “Notices”) provided by Company or its affiliates via paper and/or electronic delivery at Company’s sole discretion. Company may deliver or display Notices to you by email or pop-up window, or by posting a message on the Services or the [Customer Portal](dashboard.hubblenetwork.com). You may receive periodic texts, emails, or other communications from the Company, such as notices regarding expiration of your account and changes to these Terms.
 
 If you have any questions about these Terms, please contact us at: info@hubblenetwork.com.
+
+### 17.5 Definitions
+
+* Terrestrial Gateway: A third-party or Company-operated Bluetooth scanning device or infrastructure element (e.g., mobile phone, Wi-Fi access point, fixed beacon reader) that forwards BLE advertisement data to the Hubble Network.
+* Developer: Any organization or authorized representative integrating the Hubble SDK into a device or application for the purpose of communicating with the Hubble Network.
+* Hubble Constellation: The Company’s proprietary low Earth orbit (LEO) satellite network designed to receive BLE advertisement packets directly from compatible devices.
+* Hubble SDK: The software development kit provided by the Company to enable integration of the Hubble communication protocol and device provisioning logic for use with the Company’s Services.
+
+### 18. Regulatory Compliance for RF Communications
+
+* Before communicating with any Terrestrial Gateway, Developers must ensure that each device integrating the Hubble SDK satisfies:
+all relevant radiofrequency-use regulations from the United States (e.g., FCC Part 2 and 15), and/or other jurisdictions such as:
+    * Canada (ISED Canada licence-exempt RSS standards), or
+    * the European Union (Directive 2014/53/EU); and
+* the conditions and supporting documentation associated with the device’s equipment authorization (existing, amended, or new, as secured by the equipment authorization holder).
+
+Before communicating with the Hubble Constellation, Developers must ensure that each device integrating the Hubble SDK satisfies:
+* the relevant radiofrequency-use regulations from the United States (e.g., FCC Part 2, 15, and 25), and/or other jurisdictions (Canada, EU, etc.); and
+* the conditions and supporting documentation associated with the device’s equipment authorization (existing, amended, or new, as secured by the equipment authorization holder) that accommodates operation with the Hubble Constellation.
+
+Such operation is subject to the following two conditions:
+1. This device may not cause harmful interference; and
+2. This device must accept any interference received, including interference that may cause undesired operation.
